@@ -1,2 +1,2 @@
 # routinetalk
-A routine sharing platform — building in public with Claude Code
+RoutineTalk — a skincare and makeup platform where creators share step-by-step routines and followers send products straight to purchase using an agent.
